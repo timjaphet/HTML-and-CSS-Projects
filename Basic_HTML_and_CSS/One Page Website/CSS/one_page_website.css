@@ -1,0 +1,14 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+form {
+    width: auto;
+    margin: 5% auto;
+    border-radius: 5px;
+    border-bottom: 3px solid rgba(184, 89, 11, 0.74);
+    border-top: 3px solid rgba(184, 89, 11, 0.74);
+    border-left: 7px rgba(184, 89, 11, 0.74);
+    border-right: 7px rgba(184, 89, 11, 0.74);
+}
